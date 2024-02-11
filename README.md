@@ -1,2 +1,2 @@
-# Currency-Calculator
-Currency Calculator with HTML CSS &amp; JavaScript
+# Currency-Exchanger
+Currency Exchanger with HTML CSS &amp; JavaScript
